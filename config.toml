@@ -1,4 +1,4 @@
-baseURL = "https://techwealthhub.github.io/toptech/"
-languageCode = "en-us"
-title = "TopTech"
-theme = "minimo"
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.73.0"
